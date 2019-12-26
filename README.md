@@ -1,2 +1,2 @@
-# Proglamlama-lab2
-Pokemon Kart Oyunu
+# Prolab-2
+Pokemon Kart Oyunu Projesi
